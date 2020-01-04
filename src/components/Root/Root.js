@@ -16,6 +16,7 @@ const Wrapper = styled.div`
 const Root = () => {
   return (
     <Wrapper>
+    <h1> Hi Pk </h1>
       <CounterWrapper>
         <Counter />
       </CounterWrapper>
